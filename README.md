@@ -1,8 +1,5 @@
 #React Native Workshop
 
-### This repo is the commit-by-commit representation of the react native workshop done for DevC Amman community 
-### Each commit will represent a step done in the way of making a complete project
-
-## RoadMap:
-* Initializing the react-native project
+### This repo contains the material of a react native workshop held in Amman-Jordan for DevC Amman (Facebook Developer Cirlce)
+### The app is a cryptopcurrency listing app, with the data coming from the public api of coinmarketcap.com
 
